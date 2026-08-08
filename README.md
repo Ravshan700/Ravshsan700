@@ -1,56 +1,134 @@
 # Ravshan700
-# 💻 Code Masters
+# 👋 Hi! I'm Ravshan
 
-> 🚀 Learn • Code • Build • Grow
+### 💻 Passionate about Programming | 🌐 Web Development | 🚀 Always Learning
 
-Code Masters — dasturlashni o‘rganayotganlar uchun tashkil etilgan IT hamjamiyat. Bu yerda biz birgalikda kod yozamiz, loyihalar yaratamiz va yangi texnologiyalarni o‘rganamiz.
+Welcome to my GitHub profile! 👋
 
-## 🎯 Maqsadimiz
+I'm a beginner developer passionate about programming, web development, and learning new technologies.
 
-- 📚 Dasturlashni bosqichma-bosqich o‘rganish
-- 💡 Yangi g‘oyalar va loyihalar yaratish
-- 🤝 Jamoaviy ishlashni rivojlantirish
-- 🧠 Muammolarni mustaqil hal qilish
-- 🚀 IT sohasida rivojlanish
-
-## 🛠️ Texnologiyalar
-
-| Texnologiya | Daraja |
-|---|---|
-| 🌐 HTML | Beginner |
-| 🎨 CSS | Beginner |
-| ⚡ JavaScript | Beginner |
-| 💻 C++ | Beginner |
-| 🔧 Git & GitHub | Beginner |
-
-## 📂 Loyihalar
-
-Ushbu repositoryda:
-
-- 📝 Amaliy topshiriqlar
-- 🌐 Web loyihalar
-- 💻 Dasturlash mashqlari
-- 🚀 Jamoaviy loyihalar
-
-joylashtiriladi.
-
-## 👥 Jamoa
-
-Code Masters Team 💙
-
-Birgalikda o‘rganamiz.  
-Birgalikda kod yozamiz.  
-Birgalikda rivojlanamiz. 🚀
-
-## 📌 Qoidalar
-
-1. 🤝 Bir-birimizni hurmat qilamiz.
-2. 💡 Bilganimizni boshqalar bilan bo‘lishamiz.
-3. 🧹 Kodni tartibli va tushunarli yozamiz.
-4. 🚀 Har kuni yangi narsa o‘rganishga harakat qilamiz.
+My goal is to improve my skills through practice, build real-world projects, and become a professional developer in the future. 🚀
 
 ---
 
-### ⭐ Learn. Code. Build. Repeat.
+## 🧑‍💻 Men haqimda
 
-*Made with ❤️ by Code Masters
+| Yo‘nalish | Ma’lumot |
+|---|---|
+| 💻 Asosiy yo‘nalish | Web dasturlash |
+| 🌐 Qiziqish | Frontend |
+| ⚡ Hozirgi til | JavaScript |
+| 🎨 Bilimlar | HTML, CSS |
+| 💻 Qo‘shimcha | C++ |
+| 🔧 Ish qurollari | Git, GitHub, VS Code |
+
+---
+
+## 🛠️ Texnologiyalar
+
+### 🌐 Web
+
+HTML • CSS • JavaScript
+
+### 💻 Dasturlash
+
+C++ • JavaScript
+
+### 🔧 Vositalar
+
+Git • GitHub • VS Code
+
+---
+
+## 📚 Hozir o‘rganayotganlarim
+
+🔹 JavaScript  
+🔹 DOM bilan ishlash  
+🔹 JavaScript funksiyalari  
+🔹 Git va GitHub  
+🔹 Frontend dasturlash  
+🔹 Loyihalarni GitHub'ga joylashtirish  
+
+---
+
+## 🎯 Yaqin maqsadlarim
+
+- ✅ HTML va CSS'ni mustahkamlash
+- 🔄 JavaScript'ni chuqurroq o‘rganish
+- 🚀 Ko‘proq amaliy loyihalar yaratish
+- 📂 GitHub profilimni rivojlantirish
+- 🤝 Jamoaviy loyihalarda qatnashish
+- 💻 Frontend dasturchi bo‘lish
+
+---
+
+## 🚀 Mening rivojlanish yo‘lim
+
+📚 O‘rganish  
+↓  
+💻 Kod yozish  
+↓  
+🧪 Sinab ko‘rish  
+↓  
+🐛 Xatolarni topish  
+↓  
+🔧 Tuzatish  
+↓  
+🚀 Loyiha yaratish  
+↓  
+📈 Rivojlanish  
+↓  
+🔄 Takrorlash
+
+---
+
+## 📂 Loyihalarim
+
+GitHub profilimda vaqt o‘tishi bilan quyidagi loyihalar ko‘payib boradi:
+
+🌐 Web saytlar  
+🎨 HTML & CSS loyihalar  
+⚡ JavaScript loyihalar  
+💻 C++ dasturlar  
+🧩 Amaliy mashqlar  
+🚀 Shaxsiy loyihalar  
+
+---
+
+## 💡 Mening fikrim
+
+> "Mukammallik birdan kelmaydi. Har kuni ozgina o‘rganish katta natijaga olib keladi."
+
+Dasturlashda xato qilish — to‘xtash uchun sabab emas.  
+Xato — keyingi bosqichga o‘tish uchun tajriba. 🚀
+
+---
+
+## 🏆 Maqsad
+
+Boshlang‘ich dasturchi  
+↓  
+Bilimlarni mustahkamlash  
+↓  
+Ko‘plab loyihalar  
+↓  
+Kuchli Portfolio  
+↓  
+Professional Developer 🚀
+
+---
+
+## 📊 GitHub
+
+ [GitHub](https://github.com/Ravshan700)
+---
+
+## 🤝 Men bilan bog‘lanish
+
+🐙 GitHub: [Ravshan700](https://github.com/Ravshan700)
+
+---
+
+### 🚀 Learn • Code • Make Mistakes • Fix • Grow
+
+⭐ Har bir katta dasturchi kichik qadamdan boshlagan.
