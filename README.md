@@ -42,8 +42,7 @@ Git • GitHub • VS Code
 
 ## 📚 Hozir o‘rganayotganlarim
 
-🔹 JavaScript  
-🔹 DOM bilan ishlash  
+🔹 JavaScript   
 🔹 JavaScript funksiyalari  
 🔹 Git va GitHub  
 🔹 Frontend dasturlash  
